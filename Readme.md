@@ -18,7 +18,7 @@ This project focuses on analyzing the sentiment of tweets using natural language
 2. Navigate to the project directory:
 
     ```bash
-    cd twitter-sentiment-analysis
+    cd EchoPulse
     ```
 
 3. Create Virtual Environment:
