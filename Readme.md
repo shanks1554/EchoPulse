@@ -1,7 +1,7 @@
 # EchoPulse
 
 ## Overview
-This project focuses on analyzing the sentiment of tweets using natural language processing (NLP) techniques. It classifies tweets into categories such as positive, negative, or neutral, providing insights into public opinion on various topics.
+EchoPulse project focuses on analyzing the sentiment of tweets using natural language processing (NLP) techniques. It classifies tweets into categories such as positive, negative, or neutral, providing insights into public opinion on various topics.
 
 ## Features
 - Preprocessing of tweet data (removal of stop words, hashtags, mentions, etc.)
